@@ -1,0 +1,347 @@
+# Translation of Themes - Stackable in Swedish
+# This file is distributed under the same license as the Themes - Stackable package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-11-05 11:49:42+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Themes - Stackable\n"
+
+#. Theme Name of the theme
+msgid "Stackable"
+msgstr "Stackable"
+
+#. Description of the theme
+msgid "Made for Stackable - Ultimate Blocks & the new WordPress editor. Perfect for a business or personal sites and blogs."
+msgstr "Skapad för Stackable – Ultimate Blocks och den nya WordPress-redigeraren. Perfekt för webbplatser och bloggar för både företag och privatpersoner."
+
+#: comments.php:85
+msgid "Comments are closed."
+msgstr "Stängt för kommentering."
+
+#: comments.php:72
+msgid "Newer Comments"
+msgstr "Nyare kommentarer"
+
+#: comments.php:68
+msgid "Comment navigation"
+msgstr "Kommentarsnavigering"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s kommentar på ”%2$s”"
+msgstr[1] "%1$s kommentarer på ”%2$s”"
+
+#: template-parts/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Det verkar inte som om vi kan hitta det du letar efter. Kanske kan en sökning hjälpa."
+
+#: template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Inget matchade dina söktermer. Försök igen med några andra nyckelord."
+
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Redo att publicera ditt första inlägg? <a href=\"%1$s\">Kom igång här</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Inget hittades"
+
+#: template-parts/content-author.php:34
+msgid "View all posts by %s"
+msgstr "Visa alla inlägg av %s"
+
+#: template-parts/content-author.php:28
+msgid "Published by %s"
+msgstr "Publicerat av %s"
+
+#. translators: %s: Name of current post.
+#: template-parts/content.php:34
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Fortsätt läsa %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content.php:43 template-parts/content-panel-page.php:33
+#: template-parts/content-page.php:31
+msgid "Page"
+msgstr "Sida"
+
+#: template-parts/content.php:39 template-parts/content-panel-page.php:29
+#: template-parts/content-page.php:27
+msgid "Pages:"
+msgstr "Sidor:"
+
+#: inc/jetpack.php:128
+msgid "Testimonials"
+msgstr "Omdömen"
+
+#. translators: %s: Name of current post
+#: template-parts/content-attachment.php:38
+#: template-parts/content-panel-page.php:43 template-parts/content-page.php:41
+#: inc/template-tags.php:67
+msgid "Edit %s"
+msgstr "Redigera %s"
+
+#: inc/template-tags.php:60
+msgid "% Comments"
+msgstr "% kommentarer"
+
+#: inc/template-tags.php:60
+msgid "1 Comment"
+msgstr "1 kommentar"
+
+#: inc/template-tags.php:60
+msgid "Leave a comment"
+msgstr "Lämna en kommentar"
+
+#: inc/template-tags.php:46
+msgid "Featured Post"
+msgstr "Utvalt inlägg"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:17 inc/template-tags.php:52
+msgid ", "
+msgstr ", "
+
+#: inc/customizer.php:46 inc/customizer.php:62
+msgid "3 Columns"
+msgstr "3 kolumner"
+
+#: inc/customizer.php:45 inc/customizer.php:61
+msgid "2 Columns"
+msgstr "2 kolumner"
+
+#: inc/customizer.php:44 inc/customizer.php:60
+msgid "1 Column"
+msgstr "1 kolumn"
+
+#: inc/customizer.php:19
+msgid "Theme Options"
+msgstr "Temainställningar"
+
+#: inc/woocommerce.php:214
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d objekt"
+msgstr[1] "%d objekt"
+
+#. translators: %s: Name of current post.
+#: inc/extras.php:86
+msgid "Continue reading %s"
+msgstr "Fortsätt läsa %s"
+
+#: stackable-customizer.php:70
+msgid "Footer Text"
+msgstr "Sidfotstext"
+
+#: stackable-customizer.php:59
+msgid "Header Menu Text Hover Color"
+msgstr "Textfärg vid hovring över meny i sidhuvud"
+
+#: stackable-customizer.php:47
+msgid "Header Menu Text Color"
+msgstr "Textfärg i meny i sidhuvud"
+
+#: stackable-customizer.php:35
+msgid "Header Background Color"
+msgstr "Sidhuvudets bakgrundsfärg"
+
+#: stackable-customizer.php:23
+msgid "Primary Color"
+msgstr "Primär färg"
+
+#: eventbrite/eventbrite-single.php:40 eventbrite/eventbrite-index.php:50
+msgid "Edit"
+msgstr "Redigera"
+
+#: attachment.php:29
+msgid "Published in"
+msgstr "Publicerat i"
+
+#. Template Name of the theme
+msgid "Full Width Page Template"
+msgstr "Fullbred sidmall"
+
+#. Template Name of the theme
+msgid "Panel Page Template"
+msgstr "Panelsidemall"
+
+#: archive-jetpack-testimonial.php:48
+msgid "Newer testimonials"
+msgstr "Nyare omdömen"
+
+#: archive-jetpack-testimonial.php:47
+msgid "Older testimonials"
+msgstr "Äldre omdömen"
+
+#: single.php:37
+msgid "Previous post:"
+msgstr "Föregående inlägg:"
+
+#: single.php:37
+msgid "Previous"
+msgstr "Föregående"
+
+#: single.php:36
+msgid "Next post:"
+msgstr "Nästa inlägg:"
+
+#: single.php:36
+msgid "Next"
+msgstr "Nästa"
+
+#: searchform.php:14
+msgctxt "submit button"
+msgid "Search"
+msgstr "Sök"
+
+#: searchform.php:12
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Sök &hellip;"
+
+#: searchform.php:11 searchform.php:12
+msgctxt "label"
+msgid "Search for:"
+msgstr "Sök efter:"
+
+#. translators: %1$s: smiley
+#: 404.php:53
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Prova att leta i månadsarkiven. %1$s"
+
+#: 404.php:35
+msgid "Most Used Categories"
+msgstr "Mest använda kategorier"
+
+#: 404.php:23
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Det verkar som om inget hittades på denna plats. Kanske prova någon av länkarna nedan eller söka?"
+
+#: 404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Hoppsan! Den sidan kan inte hittas."
+
+#: search.php:21
+msgid "Search Results for: %s"
+msgstr "Sökresultat för: %s"
+
+#: functions.php:209
+msgid "collapse child menu"
+msgstr "minimera undermeny"
+
+#: functions.php:208
+msgid "expand child menu"
+msgstr "expandera undermeny"
+
+#: functions.php:204
+msgid "Back to top"
+msgstr "Tillbaka till toppen"
+
+#: functions.php:129
+msgid "Bottom Footer"
+msgstr "Botten sidfot"
+
+#: functions.php:119
+msgid "Top Footer"
+msgstr "Toppen sidfot"
+
+#: functions.php:109
+msgid "Sidebar"
+msgstr "Sidopanel"
+
+#: functions.php:55
+msgid "Primary"
+msgstr "Primär"
+
+#: header.php:43
+msgid "Primary Menu"
+msgstr "Huvudmeny"
+
+#: header.php:41
+msgid "Menu"
+msgstr "Meny"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "Hoppa till innehåll"
+
+#. translators: %s: post title
+#: comments.php:35
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "En kommentar på ”%s”"
+
+#: inc/customizer.php:40
+msgid "Top Footer Area Layout"
+msgstr "Layout för området i sidhuvudet"
+
+#: inc/customizer.php:29
+msgid "Fixed header when scrolling down."
+msgstr "Fixerat sidhuvud vid rullning nedåt"
+
+#: archive-jetpack-testimonial.php:49
+msgid "Testimonials navigation"
+msgstr "Navigation för omdömen"
+
+#. translators: If there are characters in your language that are not supported
+#. by Inconsolata, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:164
+msgctxt "Inconsolata font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. by Lato, translate this to 'off'. Do not translate into your own language.
+#: functions.php:159
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. by Poppins, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:154
+msgctxt "Poppins font: on or off"
+msgid "on"
+msgstr "on"
+
+#: comments.php:71
+msgid "Older Comments"
+msgstr "Tidigare kommentarer"
+
+#: inc/jetpack.php:34
+msgid "The featured content section displays on the index page bellow the header."
+msgstr "Den utvalda innehållssektionen visas på startsidan under rubriken."
+
+#: inc/customizer.php:56
+msgid "Bottom Footer Area Layout"
+msgstr "Layout för området i sidfoten"
+
+#: inc/woocommerce.php:213
+msgid "View your shopping cart"
+msgstr "Visa din varukorg"
+
+#: stackable.php:37
+msgid "Theme by %1$s."
+msgstr "Tema av %1$s."
+
+#. Author URI of the theme
+msgid "https://wpstackable.com"
+msgstr "https://wpstackable.com"
+
+#. Author of the theme
+msgid "GΛMBIT"
+msgstr "GΛMBIT"
+
+#. Theme URI of the theme
+msgid "https://wpstackable.com/theme"
+msgstr "https://wpstackable.com/theme"

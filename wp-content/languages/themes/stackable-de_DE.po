@@ -1,0 +1,347 @@
+# Translation of Themes - Stackable in German
+# This file is distributed under the same license as the Themes - Stackable package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-02-18 18:47:49+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: de\n"
+"Project-Id-Version: Themes - Stackable\n"
+
+#. Theme Name of the theme
+msgid "Stackable"
+msgstr "Stackable"
+
+#. Description of the theme
+msgid "Made for Stackable - Ultimate Blocks & the new WordPress editor. Perfect for a business or personal sites and blogs."
+msgstr "Gemacht für Stackable – Ultimate Blocks und der neue WordPress-Editor. Perfekt für geschäftliche oder private Seiten und Blogs."
+
+#: comments.php:71
+msgid "Older Comments"
+msgstr "Ältere Kommentare"
+
+#: template-parts/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Es sieht so aus, als ob wir nicht finden konnten, wonach du gesucht hast. Vielleicht hilft die Suche."
+
+#: template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Entschuldigung, aber zu den Suchbegriffen wurde leider nichts Passendes gefunden. Bitte versuche es erneut mit anderen Suchbegriffen."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Nichts gefunden"
+
+#: template-parts/content-author.php:34
+msgid "View all posts by %s"
+msgstr "Zeige alle Beiträge von %s"
+
+#: template-parts/content-author.php:28
+msgid "Published by %s"
+msgstr "Veröffentlicht von %s"
+
+#. translators: %s: Name of current post.
+#: template-parts/content.php:34
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%s weiterlesen <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content.php:43 template-parts/content-panel-page.php:33
+#: template-parts/content-page.php:31
+msgid "Page"
+msgstr "Seite"
+
+#: template-parts/content.php:39 template-parts/content-panel-page.php:29
+#: template-parts/content-page.php:27
+msgid "Pages:"
+msgstr "Seiten:"
+
+#: inc/jetpack.php:128
+msgid "Testimonials"
+msgstr "Erfahrungsberichte"
+
+#. translators: %s: Name of current post
+#: template-parts/content-attachment.php:38
+#: template-parts/content-panel-page.php:43 template-parts/content-page.php:41
+#: inc/template-tags.php:67
+msgid "Edit %s"
+msgstr "%s bearbeiten"
+
+#: inc/template-tags.php:60
+msgid "% Comments"
+msgstr "% Kommentare"
+
+#: inc/template-tags.php:60
+msgid "1 Comment"
+msgstr "Ein Kommentar"
+
+#: inc/template-tags.php:60
+msgid "Leave a comment"
+msgstr "Schreibe einen Kommentar"
+
+#: inc/template-tags.php:46
+msgid "Featured Post"
+msgstr "Hervorgehobener Beitrag"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:17 inc/template-tags.php:52
+msgid ", "
+msgstr ", "
+
+#: inc/customizer.php:46 inc/customizer.php:62
+msgid "3 Columns"
+msgstr "3 Spalten"
+
+#: inc/customizer.php:45 inc/customizer.php:61
+msgid "2 Columns"
+msgstr "2 Spalten"
+
+#: inc/customizer.php:44 inc/customizer.php:60
+msgid "1 Column"
+msgstr "1 Spalte"
+
+#: inc/woocommerce.php:213
+msgid "View your shopping cart"
+msgstr "Deinen Warenkorb anzeigen"
+
+#: inc/customizer.php:19
+msgid "Theme Options"
+msgstr "Theme-Einstellungen"
+
+#: stackable-customizer.php:23
+msgid "Primary Color"
+msgstr "Primäre Farbe"
+
+#. translators: %s: Name of current post.
+#: inc/extras.php:86
+msgid "Continue reading %s"
+msgstr "%s weiterlesen"
+
+#: single.php:36
+msgid "Next"
+msgstr "Weiter"
+
+#: searchform.php:11 searchform.php:12
+msgctxt "label"
+msgid "Search for:"
+msgstr "Suche nach:"
+
+#: 404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ups! Diese Seite konnte leider nicht gefunden werden."
+
+#: search.php:21
+msgid "Search Results for: %s"
+msgstr "Suchergebnis für: %s"
+
+#: 404.php:23
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Hier konnte nichts gefunden werden. Vielleicht hilft einer der unten stehenden Links oder die Suche?"
+
+#: functions.php:109
+msgid "Sidebar"
+msgstr "Seitenleiste"
+
+#: functions.php:55
+msgid "Primary"
+msgstr "Primär"
+
+#: header.php:43
+msgid "Primary Menu"
+msgstr "Hauptmenü"
+
+#: header.php:41
+msgid "Menu"
+msgstr "Menü"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "Zum Inhalt springen"
+
+#: eventbrite/eventbrite-single.php:40 eventbrite/eventbrite-index.php:50
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#. Template Name of the theme
+msgid "Full Width Page Template"
+msgstr "Seitenvorlage Volle Breite"
+
+#: single.php:37
+msgid "Previous post:"
+msgstr "Vorheriger Beitrag:"
+
+#: single.php:37
+msgid "Previous"
+msgstr "Zurück"
+
+#: single.php:36
+msgid "Next post:"
+msgstr "Nächster Beitrag:"
+
+#: searchform.php:14
+msgctxt "submit button"
+msgid "Search"
+msgstr "Suche"
+
+#. translators: %1$s: smiley
+#: 404.php:53
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Versuche es in der monatlichen Archivübersicht. %1$s"
+
+#: 404.php:35
+msgid "Most Used Categories"
+msgstr "Meistverwendetete Kategorien"
+
+#: stackable.php:37
+msgid "Theme by %1$s."
+msgstr "Theme von %1$s."
+
+#: functions.php:208
+msgid "expand child menu"
+msgstr "Untermenü anzeigen"
+
+#: functions.php:204
+msgid "Back to top"
+msgstr "Zurück nach oben"
+
+#. translators: If there are characters in your language that are not supported
+#. by Lato, translate this to 'off'. Do not translate into your own language.
+#: functions.php:159
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. by Poppins, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:154
+msgctxt "Poppins font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. by Inconsolata, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:164
+msgctxt "Inconsolata font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:209
+msgid "collapse child menu"
+msgstr "Untermenü verbergen"
+
+#: archive-jetpack-testimonial.php:49
+msgid "Testimonials navigation"
+msgstr "Erfahrungsbericht-Navigation"
+
+#: inc/woocommerce.php:214
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d Artikel"
+msgstr[1] "%d Artikel"
+
+#: archive-jetpack-testimonial.php:48
+msgid "Newer testimonials"
+msgstr "Neuere Erfahrungsberichte"
+
+#: archive-jetpack-testimonial.php:47
+msgid "Older testimonials"
+msgstr "Ältere Erfahrungsberichte"
+
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Bereit, deinen ersten Beitrag zu veröffentlichen? <a href=\"%1$s\">Starte hier</a>."
+
+#: comments.php:68
+msgid "Comment navigation"
+msgstr "Kommentarnavigation"
+
+#: searchform.php:12
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Suche &hellip;"
+
+#: comments.php:72
+msgid "Newer Comments"
+msgstr "Neuere Kommentare"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s Gedanke zu &bdquo;%2$s&ldquo;"
+msgstr[1] "%1$s Gedanken zu &bdquo;%2$s&ldquo;"
+
+#. translators: %s: post title
+#: comments.php:35
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Ein Gedanke zu &bdquo;%s&ldquo;"
+
+#: attachment.php:29
+msgid "Published in"
+msgstr "Veröffentlicht in"
+
+#: stackable-customizer.php:70
+msgid "Footer Text"
+msgstr "Footer-Text"
+
+#: functions.php:129
+msgid "Bottom Footer"
+msgstr "Unterer Footer"
+
+#: functions.php:119
+msgid "Top Footer"
+msgstr "Oberer Footer"
+
+#: inc/customizer.php:29
+msgid "Fixed header when scrolling down."
+msgstr "Fixiterter Header beim Herunterscrollen."
+
+#: inc/customizer.php:40
+msgid "Top Footer Area Layout"
+msgstr "Oberes Footer-Bereichslayout"
+
+#: inc/customizer.php:56
+msgid "Bottom Footer Area Layout"
+msgstr "Unteres Footer-Bereichslayout"
+
+#: stackable-customizer.php:47
+msgid "Header Menu Text Color"
+msgstr "Textfarbe im Header-Menü"
+
+#: stackable-customizer.php:35
+msgid "Header Background Color"
+msgstr "Header-Hintergrundfarbe"
+
+#: stackable-customizer.php:59
+msgid "Header Menu Text Hover Color"
+msgstr "Farbe des Header-Menütexts bei Mauszeigerkontakt"
+
+#: inc/jetpack.php:34
+msgid "The featured content section displays on the index page bellow the header."
+msgstr "Der hervorgehobene Inhaltsbereich wird auf der Startseite unter dem Header angezeigt."
+
+#: comments.php:85
+msgid "Comments are closed."
+msgstr "Kommentare sind deaktiviert."
+
+#. Template Name of the theme
+msgid "Panel Page Template"
+msgstr "Panel-Seitentemplate"
+
+#. Author URI of the theme
+msgid "https://wpstackable.com"
+msgstr "https://wpstackable.com"
+
+#. Author of the theme
+msgid "GΛMBIT"
+msgstr "GΛMBIT"
+
+#. Theme URI of the theme
+msgid "https://wpstackable.com/theme"
+msgstr "https://wpstackable.com/theme"

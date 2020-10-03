@@ -1,0 +1,319 @@
+# Translation of Themes - Stackable in Norwegian (Bokmål)
+# This file is distributed under the same license as the Themes - Stackable package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-08-23 14:14:12+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: nb_NO\n"
+"Project-Id-Version: Themes - Stackable\n"
+
+#: comments.php:85
+msgid "Comments are closed."
+msgstr "Kommentarer er stengt."
+
+#: comments.php:72
+msgid "Newer Comments"
+msgstr "Nyere kommentarer"
+
+#: comments.php:71
+msgid "Older Comments"
+msgstr "Eldre kommentarer"
+
+#: comments.php:68
+msgid "Comment navigation"
+msgstr "Kommentarnavigering"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s kommentar til &laquo;%2$s&raquo;"
+msgstr[1] "%1$s kommentarer til &laquo;%2$s&raquo;"
+
+#. translators: %s: post title
+#: comments.php:35
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Én kommentar til &laquo;%s&raquo;"
+
+#: template-parts/content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Det ser ikke ut til at vi kan finne det du leter etter. Kanskje et søk kan hjelpe."
+
+#: template-parts/content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Beklager, men det var ikke noe som passet til ditt søk. Vennligst prøv igjen med andre søkeord."
+
+#: template-parts/content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Klar til å publisere ditt første innlegg? <a href=\"%1$s\">Kom i gang her</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Intet funnet"
+
+#: template-parts/content-author.php:34
+msgid "View all posts by %s"
+msgstr "Vis alle innlegg av %s"
+
+#: template-parts/content-author.php:28
+msgid "Published by %s"
+msgstr "Publisert av %s"
+
+#. translators: %s: Name of current post.
+#: template-parts/content.php:34
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Fortsett å lese %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content.php:43 template-parts/content-panel-page.php:33
+#: template-parts/content-page.php:31
+msgid "Page"
+msgstr "Side"
+
+#: template-parts/content.php:39 template-parts/content-panel-page.php:29
+#: template-parts/content-page.php:27
+msgid "Pages:"
+msgstr "Sider:"
+
+#: inc/jetpack.php:128
+msgid "Testimonials"
+msgstr "Omtaler"
+
+#. translators: %s: Name of current post
+#: template-parts/content-attachment.php:38
+#: template-parts/content-panel-page.php:43 template-parts/content-page.php:41
+#: inc/template-tags.php:67
+msgid "Edit %s"
+msgstr "Rediger %s"
+
+#: inc/template-tags.php:60
+msgid "% Comments"
+msgstr "% kommentarer"
+
+#: inc/template-tags.php:60
+msgid "1 Comment"
+msgstr "1 kommentar"
+
+#: inc/template-tags.php:60
+msgid "Leave a comment"
+msgstr "Legg igjen en kommentar"
+
+#: inc/template-tags.php:46
+msgid "Featured Post"
+msgstr "Fremhevet innlegg"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:17 inc/template-tags.php:52
+msgid ", "
+msgstr ", "
+
+#: inc/customizer.php:46 inc/customizer.php:62
+msgid "3 Columns"
+msgstr "3 kolonner"
+
+#: inc/customizer.php:45 inc/customizer.php:61
+msgid "2 Columns"
+msgstr "2 kolonner"
+
+#: inc/customizer.php:44 inc/customizer.php:60
+msgid "1 Column"
+msgstr "1 kolonne"
+
+#: inc/customizer.php:19
+msgid "Theme Options"
+msgstr "Temainnstillinger"
+
+#: inc/woocommerce.php:214
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d element"
+msgstr[1] "%d elementer"
+
+#: inc/woocommerce.php:213
+msgid "View your shopping cart"
+msgstr "Vis din handlekurv"
+
+#. translators: %s: Name of current post.
+#: inc/extras.php:86
+msgid "Continue reading %s"
+msgstr "Fortsett å lese %s"
+
+#: stackable-customizer.php:70
+msgid "Footer Text"
+msgstr "Bunntekst"
+
+#: stackable-customizer.php:47
+msgid "Header Menu Text Color"
+msgstr "Farge på meny i sidetopp"
+
+#: stackable-customizer.php:35
+msgid "Header Background Color"
+msgstr "Bakgrunnsfarge for sidetopp"
+
+#: stackable-customizer.php:23
+msgid "Primary Color"
+msgstr "Primærfarge"
+
+#: eventbrite/eventbrite-single.php:40 eventbrite/eventbrite-index.php:50
+msgid "Edit"
+msgstr "Rediger"
+
+#: attachment.php:29
+msgid "Published in"
+msgstr "Publisert i"
+
+#: archive-jetpack-testimonial.php:49
+msgid "Testimonials navigation"
+msgstr "Navigering i omtaler"
+
+#: archive-jetpack-testimonial.php:48
+msgid "Newer testimonials"
+msgstr "Nyere omtaler"
+
+#: archive-jetpack-testimonial.php:47
+msgid "Older testimonials"
+msgstr "Eldre omtaler"
+
+#: single.php:37
+msgid "Previous post:"
+msgstr "Forrige innlegg:"
+
+#: single.php:37
+msgid "Previous"
+msgstr "Forrige"
+
+#: single.php:36
+msgid "Next post:"
+msgstr "Neste innlegg:"
+
+#: single.php:36
+msgid "Next"
+msgstr "Neste"
+
+#: searchform.php:14
+msgctxt "submit button"
+msgid "Search"
+msgstr "Søk"
+
+#: searchform.php:12
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Søk &hellip;"
+
+#: searchform.php:11 searchform.php:12
+msgctxt "label"
+msgid "Search for:"
+msgstr "Søk etter:"
+
+#. translators: %1$s: smiley
+#: 404.php:53
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Prøv å se i de månedlige arkivene. %1$s"
+
+#: 404.php:35
+msgid "Most Used Categories"
+msgstr "Mest brukte kategorier"
+
+#: 404.php:23
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Det ser ikke ut som at det er noe her. Kanskje du kan prøve en av lenkene nedenfor, eller et søk?"
+
+#: 404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! Den siden ble ikke funnet."
+
+#: search.php:21
+msgid "Search Results for: %s"
+msgstr "Søkeresultater for: %s"
+
+#: stackable.php:37
+msgid "Theme by %1$s."
+msgstr "Tema av %1$s."
+
+#: functions.php:209
+msgid "collapse child menu"
+msgstr "trekk sammen undermeny"
+
+#: functions.php:208
+msgid "expand child menu"
+msgstr "utvid undermeny"
+
+#: functions.php:204
+msgid "Back to top"
+msgstr "Tilbake til toppen"
+
+#. translators: If there are characters in your language that are not supported
+#. by Inconsolata, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:164
+msgctxt "Inconsolata font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. by Lato, translate this to 'off'. Do not translate into your own language.
+#: functions.php:159
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. by Poppins, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:154
+msgctxt "Poppins font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:109
+msgid "Sidebar"
+msgstr "Sidekolonne"
+
+#: functions.php:55
+msgid "Primary"
+msgstr "Primær"
+
+#: header.php:43
+msgid "Primary Menu"
+msgstr "Hovedmeny"
+
+#: header.php:41
+msgid "Menu"
+msgstr "Meny"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "Hopp til innhold"
+
+#: inc/jetpack.php:34
+msgid "The featured content section displays on the index page bellow the header."
+msgstr "Seksjonen med fremhevet innhold vises på forsiden nedenfor sidehodet."
+
+#: inc/customizer.php:56
+msgid "Bottom Footer Area Layout"
+msgstr "Oppsett for nedre sidebunn"
+
+#: inc/customizer.php:40
+msgid "Top Footer Area Layout"
+msgstr "Oppsett for øvre sidebunn"
+
+#: inc/customizer.php:29
+msgid "Fixed header when scrolling down."
+msgstr "Festet sidehodet ved skrolling."
+
+#: stackable-customizer.php:59
+msgid "Header Menu Text Hover Color"
+msgstr "Svevefarge for menytekst i sidehodet"
+
+#: functions.php:129
+msgid "Bottom Footer"
+msgstr "Nedre sidebunn"
+
+#: functions.php:119
+msgid "Top Footer"
+msgstr "Øvre sidebunn"
